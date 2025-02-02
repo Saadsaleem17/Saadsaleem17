@@ -1,4 +1,5 @@
 ## Hi there I am Saad Salim 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadsalim17&label=Profile%20views&color=0e75b6&style=flat" alt="saadsalim17" /> </p>
 
 - 🔭 I’m currently working on team projects such as EcoFleet and FingerNav.
 - 🌱 I’m currently learning DSA and Web Development.
