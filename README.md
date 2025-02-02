@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on team projects such as EcoFleet and FingerNav.
 - 🌱 I’m currently learning DSA and Web Development.
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saadsaleem17&theme=discord&no-frame=falsema&column=3&margin-w=15&margin-h=15)
+![](https://github-profile-trophy.vercel.app/?username=saadsaleem17&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 <!-- 👯 I’m looking to collaborate on ...
 
 - 🤔 I’m looking for help with ...
