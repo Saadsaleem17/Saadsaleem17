@@ -1,4 +1,8 @@
-## Hi there I am Saad Salim 👋
+<div align="center"> 
+   ## Hi there I am Saad Salim 👋
+</div>
+ 
+  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saadsalim17&label=VISITS&color=0e75b6&style=for-the-badge" alt="saadsalim17" /> </p>
 
 - 🔭 I’m currently working with a team developing projects such as EcoFleet, FingerNav, LearnQ.
@@ -12,6 +16,10 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saadsalim07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-salim-24b251228/) 
+
+
+  ![snake gif](https://github.com/saadsaleem17/saadsaleem17/blob/output/github-snake-dark.svg)
+
 <!-- 👯 I’m looking to collaborate on ...
 <!-- - 🤔 I’m looking for help with ...
 
